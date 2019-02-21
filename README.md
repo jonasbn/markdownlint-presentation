@@ -18,6 +18,16 @@ Collection of examples and notes for my **Markdownlint** presentation
 - [Sublime Text Markdown editing plugin](https://github.com/SublimeText-Markdown/MarkdownEditing), based on the Ruby implementation (`mdl`)
 - [Visual Studio Code Markdownlint plugin](https://github.com/DavidAnson/vscode-markdownlint), based on the Node implementation
 
+## markdownlint configuration
+
+```json
+{
+    "default": true
+}
+```
+
+Basic configuration in JSON for `markdownlint`, enabling all rules
+
 ## Using markdownlint-cli with Travis CI
 
 ```yaml
