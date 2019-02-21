@@ -4,7 +4,7 @@ Collection of examples and notes for my **Markdownlint** presentation
 
 ## Resources
 
-- [Slideshare](https://www.slideshare.net/jonasbn), my presentation referencing this GitHub repository
+- [SlideShare: Markdownlint](https://www.slideshare.net/jonasbn/markdownlint), my presentation referencing this GitHub repository
 
 - [Wikipedia: Markdown](https://en.wikipedia.org/wiki/Markdown)
 - [CommonMark](https://commonmark.org/) specification of open Markdown-inspired variation
