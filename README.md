@@ -11,8 +11,7 @@ Collection of examples and notes for my **Markdownlint** presentation
 - [CommonMark GitHub repository](https://github.com/CommonMark/CommonMark)
 
 - [Markdownlint](https://github.com/markdownlint): (`mdl`) the first and original implementation in Ruby
-- [Markdownlint](https://github.com/DavidAnson/markdownlint
-): implementation in Node inspired and based on the Ruby implementation
+- [Markdownlint](https://github.com/DavidAnson/markdownlint): implementation in Node inspired and based on the Ruby implementation
 - [Markdownlint Command Line Interface](https://github.com/igorshubovych/markdownlint-cli): (`markdownlint`) GUI for the above Markdownlint Node library implementation
 
 - [Sublime Text Markdown editing plugin](https://github.com/SublimeText-Markdown/MarkdownEditing), based on the Ruby implementation (`mdl`)
